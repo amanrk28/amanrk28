@@ -1,5 +1,21 @@
+<h1 align="left">Hey there 👋</h1>
 
-<h2 align="center">Hey there 👋</h2>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+
+I'm fullstack engineer who loves building clean, performant web apps.
+I work mostly with React, Spring Boot, and PostgreSQL, and enjoy shipping fast, intuitive UIs backed by solid backend systems. I've spent time working with Docker, AWS, Redis and up-to-date dev workflows.
+
+I like working on products where engineering meets design — building things that are not just functional, but feel great to use.
+
+Lately, I’ve been exploring how AI can augment developer workflows and product experiences — and I’m excited about the possibilities it opens up. Always happy to connect or collaborate if you're building something interesting in this space.
+
+You’ll find a mix of projects, experiments, and quick builds here. Always exploring new ideas, tools, and ways to build better software. Thanks for stopping by!
+
 
 ###
 
