@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Aman and I'm a Fullstack Software Engineer</h2>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<h2 align="center">Hey there 👋</h2>
 
 ###
 
